@@ -12,4 +12,7 @@ Analyzing Historical Stock & Revenue Data and Building a Dashboard
 - matplotlib.pyplot
 - warnings
 
+### Tesla Analysis Graph
+![Alt text](https://github.com/adilrasheed139/Project-for-Data-Science/blob/main/Tesla%20Analysis%20Graph.jpg)
+### GameStop Analysis Graph
 ![Alt text](https://github.com/adilrasheed139/Project-for-Data-Science/blob/main/GameStop%20Analysis%20Graph.jpg)
