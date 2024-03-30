@@ -12,4 +12,4 @@ Analyzing Historical Stock & Revenue Data and Building a Dashboard
 - matplotlib.pyplot
 - warnings
 
-https://github.com/adilrasheed139/Project-for-Data-Science/blob/main/GameStop%20Analysis%20Graph.jpg
+![Alt text](https://github.com/adilrasheed139/Project-for-Data-Science/blob/main/GameStop%20Analysis%20Graph.jpg)
