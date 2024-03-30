@@ -11,4 +11,3 @@ Analyzing Historical Stock & Revenue Data and Building a Dashboard
 - import make_subplots from plotly.subplots
 - matplotlib.pyplot
 - warnings
-- 
