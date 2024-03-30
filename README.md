@@ -11,3 +11,5 @@ Analyzing Historical Stock & Revenue Data and Building a Dashboard
 - import make_subplots from plotly.subplots
 - matplotlib.pyplot
 - warnings
+
+https://github.com/adilrasheed139/Project-for-Data-Science/blob/main/GameStop%20Analysis%20Graph.jpg
